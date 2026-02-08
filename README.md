@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 🧪🦾
+
+I'm finishing my undergrad at EPFL in chemistry and chemical engineering. Currently in exchange at TUM, my interests lie in the field of machine learning for chemical discovery and computer vision! 👾 
+
+You can reach me at : 
+
+- giulio.garotti@epfl.ch
 
 <!--
 **Giulio-grt/Giulio-grt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
