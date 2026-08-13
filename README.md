@@ -1,7 +1,7 @@
 ## Hi there 🧪🦾
 
 BSc in Chemistry & Chemical Engineering at EPFL, with an exchange year at TU München.
-Starting an MSc in Process Engineering at ETH Zurich in September 2026.
+Starting an MSc in Process Engineering at ETH Zurich.
 
 Co-founder and CTO of [Aletheia](https://aletheia-ai.ch), an AI financial intelligence
 platform for Swiss wealth managers.
