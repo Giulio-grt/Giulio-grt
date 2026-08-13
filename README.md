@@ -1,14 +1,22 @@
 ## Hi there 🧪🦾
 
-I'm finishing my undergrad at EPFL in chemistry and chemical engineering. Currently in exchange at TUM, my interests lie in the field of machine learning for chemical discovery & computer vision! 👾 
+BSc in Chemistry & Chemical Engineering at EPFL, with an exchange year at TU München.
+Starting an MSc in Process Engineering at ETH Zurich in September 2026.
 
-You can reach me at : 
+Co-founder and CTO of [Aletheia](https://aletheia-ai.ch), an AI financial intelligence
+platform for Swiss wealth managers.
+
+My interests lie in machine learning for chemical discovery, computer vision, and finance. 👾
+
+You can reach me at :
 
 University
-- giulio.garotti@epfl.ch
 
-Professional 
-- giulio.garotti@aletheia-ai.ch
+- <giulio.garotti@epfl.ch>
+
+Professional
+
+- <giulio.garotti@aletheia-ai.ch>
 
 <!--
 **Giulio-grt/Giulio-grt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
