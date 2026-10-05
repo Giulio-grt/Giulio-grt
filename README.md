@@ -12,7 +12,7 @@ You can reach me at :
 
 University
 
-- <giulio.garotti@epfl.ch>
+- <ggarotti@student.ethz.ch>
 
 Professional
 
