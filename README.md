@@ -1,12 +1,12 @@
 ## Hi there 🧪🦾
 
 BSc in Chemistry & Chemical Engineering at EPFL, with an exchange year at TU München.
-Starting an MSc in Process Engineering at ETH Zurich.
+MSc student in Process Engineering at ETH Zurich.
 
 Co-founder and CTO of [Aletheia](https://aletheia-ai.ch), an AI financial intelligence
 platform for Swiss wealth managers.
 
-My interests lie in machine learning for chemical discovery, computer vision, and finance. 👾
+My interests lie in machine learning for materials & semiconductor modelling, chemical Discovery and in building applied AI systems. 👾
 
 You can reach me at :
 
